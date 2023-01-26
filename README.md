@@ -1,2 +1,2 @@
 # UcakBiletiFiyati
-Patika.dev Java 101 eğitimi kapsamında oluşturulmuş  Uçak Bileti Fiyatı Hesaplama Programı
+[Patika.dev](https://wwwpatika.dev) [Java 101](https://app.patika.dev/courses/java101) eğitimi kapsamında oluşturulmuş  Uçak Bileti Fiyatı Hesaplama Programı
